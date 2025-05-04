@@ -1,0 +1,28 @@
+
+body {
+  background: #f9f9f9;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+.typing {
+  font-size: 24px;
+  color: red;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  width: 0;
+  animation: typing 4s steps(40, end) forwards;
+}
+@keyframes typing {
+  to { width: 100%; }
+}
+.marquee {
+  margin-top: 20px;
+  font-size: 18px;
+  color: red;
+}
+.auth-links {
+  margin-top: 30px;
+  font-size: 20px;
+}
