@@ -1,83 +1,58 @@
-<h1 align="center">✨ ALPIN DEVELOPER STORE ✨</h1>
+<div align="center">
+
+<!-- HEADER GIF -->
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="auto" />
+<img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="100%" height="auto" />
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" height="auto" />
+
+<!-- TYPING TEXT -->
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=2000&color=0FF0FC&background=000000&center=true&vCenter=true&width=1100&lines=Selamat+Datang+di+Profil+Alpin+Developer;Sang+Penguasa+Kodingan;Frontend+%2F+Backend+Warrior;Master+Design+UX+UI" />
+</h1>
+
+---
+
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/yoJC2Olx0ekMy2nX7W/giphy.gif" width="40px"> Tentang Alpin Developer
+
+> **Nama:** `Alpin Developer`  
+> **Hobi:** `Coding`, `Gaming`, `Ngopi`, `Push Rank ML`  
+> **Makanan Favorit:** `Bakso Pedas`, `Seblak`, `Sate Kambing`, `Mie Ayam`  
+> **Status:** `Mahasiswa TI`  
+> **Cita-cita:** `Software Engineer Skala Dunia`
+
+---
+
+<!-- SKILL -->
+## <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="40px"> Skill Senjata Alpin Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,java,flutter&theme=light" width="80%"/>
 </p>
 
 ---
 
-<h2 align="center">Tentang Gue</h2>
+<!-- SOSIAL MEDIA -->
+## <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="40px"> Sosial Media Alpin Developer
 
 <p align="center">
-  Seorang Developer Store gila kode dengan ambisi menaklukkan dunia programming!  
-  Motto: <em>"Code, Sleep, Repeat - Tapi lebih sering Codennya!"</em>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250"/>
-</p>
-
----
-
-## Bahasa Pemrograman & Tools
-
-| Bahasa | Logo |
-|:------:|:----:|
-| **HTML5** | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) |
-| **CSS3** | ![CSS3](https://img.icons8.com/color/48/css3.png) |
-| **JavaScript** | ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) |
-| **TypeScript** | ![TypeScript](https://img.icons8.com/color/48/typescript.png) |
-| **PHP** | ![PHP](https://img.icons8.com/color/48/php.png) |
-| **Python** | ![Python](https://img.icons8.com/color/48/python--v1.png) |
-| **C** | ![C](https://img.icons8.com/color/48/c-programming.png) |
-| **C++** | ![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png) |
-| **C#** | ![C#](https://img.icons8.com/color/48/c-sharp-logo.png) |
-| **Java** | ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) |
-| **Kotlin** | ![Kotlin](https://img.icons8.com/color/48/kotlin.png) |
-| **Swift** | ![Swift](https://img.icons8.com/color/48/swift.png) |
-| **Dart** | ![Dart](https://img.icons8.com/color/48/dart.png) |
-| **Go** | ![Go](https://img.icons8.com/color/48/golang.png) |
-| **Rust** | ![Rust](https://img.icons8.com/color/48/rust-programming-language.png) |
-| **Ruby** | ![Ruby](https://img.icons8.com/color/48/ruby-programming-language.png) |
-| **Perl** | ![Perl](https://img.icons8.com/color/48/perl.png) |
-| **Assembly** | ![Assembly](https://img.icons8.com/ios/50/assembly.png) |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+  <a href="https://www.tiktok.com/@alpindev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.instagram.com/alpindev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@alpindev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://wa.me/628123456789" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/alpindev" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:alpindev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/alpindev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/alpindev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
-## Sosial Media Gua
-
-| Platform | Link | Logo |
-|:--------:|:----:|:----:|
-| **Instagram** | [Follow Boss!](https://instagram.com/) | ![Instagram](https://img.icons8.com/color/48/instagram-new--v1.png) |
-| **GitHub** | [Check Codenya!](https://github.com/) | ![GitHub](https://img.icons8.com/glyph-neue/64/github.png) |
-| **YouTube** | [Nontonin Boss!](https://youtube.com/) | ![YouTube](https://img.icons8.com/color/48/youtube-play.png) |
-| **Discord** | [Ngobrol Santuy!](https://discord.com/) | ![Discord](https://img.icons8.com/color/48/discord--v1.png) |
-| **TikTok** | [Cek Dance Coding!](https://tiktok.com/) | ![TikTok](https://img.icons8.com/color/48/tiktok--v1.png) |
-| **Twitter/X** | [Ngetweet Codingan!](https://twitter.com/) | ![Twitter](https://img.icons8.com/color/48/twitter--v1.png) |
-| **Facebook** | [Add Dulu Boss!](https://facebook.com/) | ![Facebook](https://img.icons8.com/color/48/facebook-new.png) |
+<!-- FOOTER -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="auto" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="250"/>
+  <img src="https://img.shields.io/badge/Verified%20Profile-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-## Quote Favorit
-
-> "Tidak semua bug buruk, kadang mereka ngajarin lo sabar..."
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Q7ozWVYCR0nyW2rv8T/giphy.gif" width="300"/>
-</p>
-
----
-
-<h2 align="center">⭐ Alpin Developer Store - Stay Coding, Stay Winning ⭐</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350"/>
-</p>
+</div>
