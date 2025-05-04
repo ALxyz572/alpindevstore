@@ -27,7 +27,7 @@
 ## <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="40px"> Skill Senjata Alpin Developer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,java,flutter,ruby&theme=light" width="80%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python&theme=light" width="80%"/>
 </p>
 
 ---
